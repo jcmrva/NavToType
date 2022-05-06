@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{325E45CC-B013-45EA-837B-3490DDD3A59D}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "NavToType", "src\NavToType\NavToType.fsproj", "{6771F9DF-DD6C-4F14-B3FC-972116D13DE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6771F9DF-DD6C-4F14-B3FC-972116D13DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6771F9DF-DD6C-4F14-B3FC-972116D13DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6771F9DF-DD6C-4F14-B3FC-972116D13DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6771F9DF-DD6C-4F14-B3FC-972116D13DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6771F9DF-DD6C-4F14-B3FC-972116D13DE8} = {325E45CC-B013-45EA-837B-3490DDD3A59D}
+	EndGlobalSection
+EndGlobal
